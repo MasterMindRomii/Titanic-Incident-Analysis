@@ -2,7 +2,7 @@
 
 #Titanic Dataset EDA
 
-Welcome to the Titanic Dataset EDA project! In this repository, we perform an Exploratory Data Analysis (EDA) on the famous Titanic dataset. This dataset contains information about passengers on board the Titanic, including details such as their age, gender, class, and whether they survived or not.
+
 
 #Overview
 The primary goal of this project is to explore and analyze the Titanic dataset to gain insights into the demographics of the passengers and factors that may have influenced their chances of survival. EDA is a crucial step in data analysis as it helps us understand the data, identify trends, and uncover patterns that can lead to meaningful conclusions.
